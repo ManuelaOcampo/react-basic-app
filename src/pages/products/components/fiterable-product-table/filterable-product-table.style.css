@@ -1,0 +1,7 @@
+.filterable-product-table-container{
+    width: 25%;
+    margin: 0 auto;
+    min-height: 430px;
+    border: 1px solid orange;
+    padding: 11px;
+}
